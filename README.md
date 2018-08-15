@@ -20,4 +20,4 @@ ya.ru
 4)Make changes to the file /etc/crontab
 example:
 
-5 	*	* 	* 	*	root    /usr/local/scripts/monitoring/status.sh serv.txt > /dev/null 2>&1
+*/5     *       *       *       *       root    /usr/local/scripts/monitoring/status.sh serv.txt > /dev/null
