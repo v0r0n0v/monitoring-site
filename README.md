@@ -1,5 +1,4 @@
 # monitoring-site
-The script is designed to monitor sites
 The script is designed to monitor multiple sites
 
 # Working with the script
