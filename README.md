@@ -21,3 +21,9 @@ ya.ru
 example:
 
 */5     *       *       *       *       root    /usr/local/scripts/monitoring/status.sh serv.txt > /dev/null
+
+in the example, the script will run every 5 minutes
+
+5) specify your mail in the script file in the EMAIL
+
+6) Well done, you did it.
